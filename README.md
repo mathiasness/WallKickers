@@ -4,7 +4,7 @@ WallKickers is a simple replica of the existing game "Wallkickers," developed as
 
 The game utilizes a single button: the space bar controls menu navigation and gameplay. Press to jump, hold for higher jumps, and press again while in the air to change direction or perform a backflip.
 
-The initial release includes 11 levels, including a starting level, chosen randomly by the game. These levels feature various structures composed of different obstacles/walls:
+The initial release includes 11 levels, including a starting level and 10 other levels chosen randomly by the game. These levels feature various structures composed of different obstacles/walls:
 
 - **Wall**: Standard wall.
 - **SpikeWall**: Deadly wall.
@@ -23,7 +23,5 @@ The game is developed using object-oriented programming and follows the model-vi
 **Character Design**: Created using [Pixilart](https://www.pixilart.com/) with inspiration from the original WallKickers game.
 
 **Video Demo**: [Watch the demo on YouTube](https://youtu.be/kUnM1ThTlzk)
-
-**Note**: High score functionality is untested with installation; it works when "user.dir" is set to "sem-2-mathias-ness".
 
 Created by Mathias Hop Ness.
