@@ -24,4 +24,17 @@ The game is developed using object-oriented programming and follows the model-vi
 
 **Video Demo**: [Watch the demo on YouTube](https://youtu.be/kUnM1ThTlzk)
 
+# Desktop Application MacOS
+Detailed norwegian explanation [HERE](LAGINSTALLER.md) for both macOS and Windows.
+
+- download the repository
+- Open terminal and navigate to /Wallkickers directory using cd command
+- run:
+```zsh 
+mvn clean install
+```
+
+**note!** this assumes maven is installed on your device.
+
+
 Created by Mathias Hop Ness.
