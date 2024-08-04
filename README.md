@@ -1,29 +1,29 @@
-# WallKickers
+## WallKickers
 
-Spillet er en enkel "replica" av det eksisterende spillet "Wallkickers" og er laget i sammenheng med en innleveringsoppgave på UIB. 
+WallKickers is a simple replica of the existing game "Wallkickers," developed as part of a project submission at UIB.
 
-Spillet benytter bare én knapp. "mellomrom"-tasten brukes til å navigere menyen og kontrollere spillet. Trykk for å hoppe, hold inne for å hoppe høyere og trykk en gang til mens i lufta for å bytte retning/"backflippe".
+The game utilizes a single button: the space bar controls menu navigation and gameplay. Press to jump, hold for higher jumps, and press again while in the air to change direction or perform a backflip.
 
-Første versjon av spillet introduserer 11 leveler, inkludert "startlevel", spillet vil velge tilfeldig blant disse. Disse levelene har forskjellige strukturer bygd opp av forskjellige "Obstacles"/vegger. 
+The initial release includes 11 levels, including a starting level, chosen randomly by the game. These levels feature various structures composed of different obstacles/walls:
 
-Wall - vanlig vegg.
-SpikeWall - dreper spilleren.
-BlinkWall - vegg som forsvinner og kommer tilbake.
-ElectricWall - vegg som kan bytter mellom dødelig og å fungere som vanlig vegg.
-BounceWall - vegg utløser et hopp automatisk, slik at spilleren spretter av den.
+- **Wall**: Standard wall.
+- **SpikeWall**: Deadly wall.
+- **BlinkWall**: Wall that disappears and reappears.
+- **ElectricWall**: Wall that toggles between deadly and normal.
+- **BounceWall**: Wall that automatically triggers a jump, bouncing the player off it.
 
-Målet med spillet er å komme så høyt som mulig. Spillet lagrer Highscore slik at man har insentiv til å nå nye høyder.
+The objective of the game is to ascend as high as possible. WallKickers saves high scores to incentivize reaching new heights.
 
-Spillet er laget med objektorientert programmering og bruk av model-view-controller konseptet.
+The game is developed using object-oriented programming and follows the model-view-controller (MVC) architectural pattern.
 
-Lenke til det orginale spillet "WallKicker": https://www.wallkickers.com/
+**Original WallKicker Game**: [WallKicker](https://www.wallkickers.com/)
 
-Bakgrunnsbildet til spillet er et gratis bilde hentet fra: https://edermunizz.itch.io/free-pixel-art-forest
+**Background Art**: Free pixel art from [Edermunizz](https://edermunizz.itch.io/free-pixel-art-forest)
 
-Spill figuren er laget i et gratis online-program: https://www.pixilart.com/ (med inspirasjon fra det orginale wall kickers spillet)
+**Character Design**: Created using [Pixilart](https://www.pixilart.com/) with inspiration from the original WallKickers game.
 
-Video demo av spillet: https://youtu.be/kUnM1ThTlzk 
+**Video Demo**: [Watch the demo on YouTube](https://youtu.be/kUnM1ThTlzk)
 
-NB! Highscore er ikke testet med installer, funker hvis "user.dir" er "sem-2-mathias-ness" 
+**Note**: High score functionality is untested with installation; it works when "user.dir" is set to "sem-2-mathias-ness".
 
-Laget av Mathias Hop Ness
+Created by Mathias Hop Ness.
