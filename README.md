@@ -1,4 +1,4 @@
-## WallKickers
+# WallKickers
 
 WallKickers is a simple replica of the existing game "Wallkickers," developed as part of a project submission at UIB.
 
@@ -24,7 +24,7 @@ The game is developed using object-oriented programming and follows the model-vi
 
 **Video Demo**: [Watch the demo on YouTube](https://youtu.be/kUnM1ThTlzk)
 
-# Desktop Application MacOS
+## Desktop Application MacOS
 Detailed norwegian explanation [HERE](LAGINSTALLER.md) for both macOS and Windows.
 
 - download the repository
